@@ -101,6 +101,7 @@ body {
 
 .harmon {
   background-color: var(--White);
+  color: var(--Primay-Very-dark-blackish-blue);
 }
 
 .abrams {
@@ -112,6 +113,7 @@ body {
 
 .kira {
   background-color: var(--White);
+  color: var(--Primay-Very-dark-blackish-blue);
   grid-column-start: 4;
   grid-column-end: span 1;
   grid-row-start: 1;
